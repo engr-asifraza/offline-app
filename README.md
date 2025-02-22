@@ -1,2 +1,5 @@
-# offline-app
-Using react Native to sate user data into offline Sqllite3
+
+## **Contributors**
+
+- **Engr.Asif Raza Panhwar (MIS)**
+- **03192471225**
