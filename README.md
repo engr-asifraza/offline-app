@@ -1,3 +1,9 @@
+## **Clone the repo**
+
+- **run**
+- **npm install**
+- - **npm run android**
+
 
 ## **Contributors**
 
