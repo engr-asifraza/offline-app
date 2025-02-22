@@ -1,8 +1,9 @@
 ## **Clone the repo**
 
-- **run**
+- **git clone **
 - **npm install**
-- - **npm run android**
+- **npm run android**
+- for offline data used package react-native-sqlite-storage
 
 
 ## **Contributors**
